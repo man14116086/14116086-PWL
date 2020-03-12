@@ -1,1 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/98d02f86-a491-477c-97e7-a560aed20739/deploy-status)](https://app.netlify.com/sites/wizardly-leakey-60a721/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9026d875-8ba8-4a9d-b092-8316039d9174/deploy-status)](https://app.netlify.com/sites/agitated-panini-349fd3/deploys)
