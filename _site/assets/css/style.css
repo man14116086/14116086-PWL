@@ -37,7 +37,6 @@ section{
  body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
-    background-image: url('https://cdn2.tstatic.net/batam/foto/bank/images/one-piece-monkey-d-luffy.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
